@@ -45,7 +45,8 @@ One should always assume QC is necessary, until evaluated and proven otherwise. 
 
 ## Formatted data
 
-You can format each fine-mapping locus to using DAP-G's input format.
+You can format each fine-mapping locus to using DAP-G's input format. **However I really do suggest that we make a more generic and compact database for GTEx and use some wrapper to run DAP-G**. I therefore suggest formatting an analysis unit to a single RDS file. I'll pass that file example along on slack and discuss with you. 
+1. All expression
 
 ## Build a pipeline
 
