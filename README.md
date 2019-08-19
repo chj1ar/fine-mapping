@@ -46,3 +46,7 @@ One should always assume QC is necessary, until evaluated and proven otherwise. 
 ## Formatted data
 
 You can format each fine-mapping locus to using DAP-G's input format.
+
+## Build a pipeline
+
+For starters, please start with analyzing one tissue, and write down everything using SoS Notebook. They do not have to be a formal SoS Workflow for now, but the notebook should have all commands needed with all details documented. 
